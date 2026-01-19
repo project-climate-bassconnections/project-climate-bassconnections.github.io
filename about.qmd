@@ -2,10 +2,7 @@
 title: "About"
 ---
 
-(Brief one paragrpah description here.) Project (our project name) is a Duke University Bass Connections research project aimed to understand... Our work aims to... To learn more about Duke University's Bass Connections Program, visit here and here.
-
-Project title idea:
-- Project C.L.I.M.A.T.E: The Heat Exposure and Assessment Team monitoring temperature and vulnerability across Sri Lanka.
+*Project C.L.I.M.A.T.E* (Climate Linked Illness and Morbidity Assessment for Thermal Temperature) is a Duke University Bass Connections research project aimed to understand how extreme heat and heat stress shape health risks for vulnerable communities in Sri Lanka, with a particular focus on pregnant mothers, young adults, and outdoor workers. Our project aims to inform heat exposure guidelines for outdoor working communities in collaboration with the Ministry of Health, Sri Lanka. To learn more about Duke University's Bass Connections Program, visit [here](https://bassconnections.duke.edu/) and [here](https://bassconnections.duke.edu/project/closing-heat-data-gaps-and-exploring-climate-injustice-narratives-2025-2026/).
 
 ## Background
 
@@ -15,4 +12,8 @@ There is an urgent need for technical advances and new research on understanding
 
 ## Project Description
 
-Building on the work of a previous team, this project will...
+Building on the work of a [previous team](https://bassconnections.duke.edu/project/closing-heat-data-gaps-climate-disease-frontline-communities-2024-2025/), this project team will explore temperature data in Sri Lanka. The 2025-2026 team will aim to determine heat exposure levels in three climate-vulnerable farming and fishing communities in Sri Lanka.
+
+The project will also use community-based participatory research, including art and Traditional Ecological Knowledge, to determine community priorities and advance research at the intersections of climate justice and health equity. This research will focus on pregnant mothers and young adults, and the project team will use these findings to develop heat exposure guidelines for outdoor working communities in collaboration with the Ministry of Health, Sri Lanka.
+
+While continuing the 2024-2025 team’s work of collecting and analyzing temperature data, the 2025-2026 team will incorporate a strong social science component by performing socioeconomic surveys, creating a vulnerability matrix and carrying out community-engaged research with Sri Lankans in communities experiencing increased incidence of kidney disease. Team members will have the opportunity to travel to Sri Lanka for a four-week, immersive field experience in summer 2026.

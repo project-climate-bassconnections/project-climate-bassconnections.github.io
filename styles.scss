@@ -10,12 +10,11 @@ $navbar-dark-active-color: #ffffff;
 
 /* Navbar background + height */
 .navbar {
-  background-color: $navbar-bg;
-  padding-top: 1.0rem;
-  padding-bottom: 1.0rem;
+  background-color: $navbar-bg /*;*/
+  /*padding-top: 1.0rem;
+  padding-bottom: 1.0rem */
 }
 
-/* Let the brand container grow and center contents */
 .navbar-brand {
   display: flex;
   align-items: center;
@@ -24,10 +23,9 @@ $navbar-dark-active-color: #ffffff;
   line-height: 1;
 }
 
-/* IMPORTANT: remove Bootstrap's max-height clamp and set your size */
 .navbar-brand img {
-  height: 60px;      /* pick a realistic size */
+  height: 50px;
   width: auto;
-  max-height: none;  /* this is the key */
+  max-height: none;
 }
 
