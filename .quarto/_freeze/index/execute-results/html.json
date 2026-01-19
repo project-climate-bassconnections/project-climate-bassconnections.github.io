@@ -1,0 +1,15 @@
+{
+  "hash": "f3b25e2cc604b410e2fde0b61be91883",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Closing Heat Data Gaps and Exploring Climate Injustice Narratives\"\nsubtitle: \"Duke University 2025-2026 Bass Connections Team\"\n---\n\n\n::: {.cell layout-align=\"center\"}\n::: {.cell-output-display}\n![](images/sri-lanka1.webp){fig-align='center' width=100%}\n:::\n:::\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
