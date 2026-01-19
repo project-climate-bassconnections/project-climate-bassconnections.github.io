@@ -1,0 +1,18 @@
+---
+title: "Closing Heat Data Gaps and Exploring Climate Injustice Narratives"
+subtitle: "Duke University 2025-2026 Bass Connections Team"
+---
+
+![](images/Bass-Connections-logo_horizontal-color.png){fig-align="center" width="671"}
+
+![](images/project-climate-logo-2.png){fig-align="center" width="182"}
+
+::: {.callout-note appearance="simple"}
+
+## Who are we?
+
+Project C.L.I.M.A.T.E (Climate Linked Illness and Morbidity Assessment for Thermal Temperature) integrates community-based participatory research—incorporating art and Traditional Ecological Knowledge—to explore the links between climate justice and health equity, with a focus on pregnant mothers and young adults. In partnership with Sri Lanka’s Ministry of Health, the team will use findings to inform heat exposure guidelines for outdoor workers. Building on previous data collection efforts, the 2025-2026 team will add a strong social science component through socioeconomic surveys, vulnerability mapping, and community-engaged research in kidney disease-affected regions, culminating in a four-week immersive field experience in Sri Lanka.
+
+:::
+
+![A dialysis unit at a teaching hospital in Batticaloa. Credit: New York Times](images/sri-lanka1.webp){fig-align="left" width="997"}
