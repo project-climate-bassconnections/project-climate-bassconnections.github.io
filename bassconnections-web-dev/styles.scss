@@ -1,0 +1,33 @@
+/* css styles */
+
+/*-- scss:defaults --*/
+$navbar-bg: #00539B;
+$navbar-dark-color: #ffffff;
+$navbar-dark-hover-color: #dbe9ff;
+$navbar-dark-active-color: #ffffff;
+
+/*-- scss:rules --*/
+
+/* Navbar background + height */
+.navbar {
+  background-color: $navbar-bg;
+  padding-top: 1.0rem;
+  padding-bottom: 1.0rem;
+}
+
+/* Let the brand container grow and center contents */
+.navbar-brand {
+  display: flex;
+  align-items: center;
+  padding-top: 0;
+  padding-bottom: 0;
+  line-height: 1;
+}
+
+/* IMPORTANT: remove Bootstrap's max-height clamp and set your size */
+.navbar-brand img {
+  height: 60px;      /* pick a realistic size */
+  width: auto;
+  max-height: none;  /* this is the key */
+}
+
