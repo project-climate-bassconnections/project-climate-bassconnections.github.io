@@ -3,14 +3,18 @@ project:
 
 website:
   title: "Project CLIMATE in Sri Lanka"
+  site-url: "https://project-climate-bassconnections.github.io/"
   navbar:
     logo: images/logo-farmworkers-only.png
     right:
       - href: index.qmd
         text: Home
-      - about.qmd
-      - team.qmd
-      - articles.qmd
+      - href: about.qmd
+        text: About
+      - href: team.qmd
+        text: Meet the Team
+      - href: articles.qmd
+        text: Articles
   page-footer: 
     right: "Copyright 2025, Site created by Natasha Harris"
 
@@ -24,4 +28,3 @@ format:
       body-width: 1000px
 
 editor: source
-
